@@ -83,5 +83,5 @@ Performed in Power Query:
     └── 🖼️ Dashboard Screenshot.png
 ```
 
-![Dashboard Screenshot](visuals/dashboard_screenshot.png)
+![Dashboard Preview](Visuals/Dashboard_Screenshot.png)
 

@@ -83,5 +83,4 @@ Performed in Power Query:
     └── 🖼️ Dashboard Screenshot.png
 ```
 
-![Dashboard Preview](Visuals/Dashboard_Screenshot.png)
-
+![Dashboard Screenshot](https://github.com/Sarah-Aladwar/Employee-Attrition-Analysis/raw/main/Visuals/Dashboard\Screenshot.png)

@@ -78,7 +78,7 @@ Performed in Power Query:
 ├── 📂 Analysis/
 │   └── 📉 Employee Attrition Analysis.xlsx
 ├── 📂 Outputs/
-│ └── 📊 Employee Attrition Report.pdf
+│   └── 📊 Employee Attrition Report.pdf
 └── 📂 Visuals/
     └── 🖼️ Dashboard Screenshot.png
 ```

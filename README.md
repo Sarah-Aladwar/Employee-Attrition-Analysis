@@ -82,4 +82,5 @@ Performed in Power Query:
 └── 📂 Visuals/
     └── 🖼️ Dashboard Screenshot.png
 ```
-![Dashboard Screenshot](https://github.com/Sarah-Aladwar/Employee-Attrition-Analysis/raw/main/Visuals/Dashboard%20Screenshot.PNG)
+![Dashboard Screenshot](Visuals/Dashboard%20Screenshot.PNG)
+
